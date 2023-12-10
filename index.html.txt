@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <!--Metadatos-->
+    <meta charset="utf-8">
+    <meta name="author" content="Ingrid Ricardo">
+    <meta name="description" content="Portafolio de Desarrollo web de Ingrid Ricardo">
+    <meta name="keywords" content="width=device-width, initial-scale=1">
+    <!--Titulo-->
+    <title> Ingrid Ricardo Desarollo Web Front-End </title>
+    <!--Favicon--> 
+    <link rel="icon" type="image/x-icon" href="imagenes/icono.png">
+    <!--Bootstrap-->
+    <link href="pp" rel="stylesheet" integrity="sha0iinijn" crossorigin="anonymous">
+    <!--Iconos de Bootstrap-->
+    <link rel="stylesheet" href="https">
+    <!--CSS-->
+    <link href="stylesheet" rel="stylesheet">
+    <!--Google Fonts-->
+    <link rel="preconnect" href="https://fonts.googlepis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googlepis.com/css2?family=Quicksand:wght@500&family=Ribik+Dirt&family=Share=Tech+Mono&display=swap" rel="stylesheet">
+</head>
+<body>
+    <!--Barra de navegacion-->
+    <nav class="navbar navbar-expand-md navbar-light">
+        <div class="container-fluid">
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbar-toggle" aria-controls="navbartogglerDemo01" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+            </button>
+        </div>
+    </nav>
+</body>
+</html>
